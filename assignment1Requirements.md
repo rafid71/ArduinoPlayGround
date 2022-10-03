@@ -75,3 +75,4 @@ Task 2
       7. delayMicroseconds(2); 
     1. how can you declear variable?
     2. 
+![Drag Racing](images/assigment1Task2.png)
