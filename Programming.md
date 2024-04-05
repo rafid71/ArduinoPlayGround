@@ -30,7 +30,9 @@
 + [Java Programming Session VII 1 4 24](https://youtu.be/JQviZrhUfJY) Important Concept | LOOP
   - Loop Star Print Example
   - Assignment
-    - triangle print  
+    - triangle print
+   
++ [Git basic Session VIII](https://youtu.be/mkGhdhRAc0c)
 
 
 ACCESSED EMAIL
