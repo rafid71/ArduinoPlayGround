@@ -33,7 +33,7 @@
     - triangle print
    
 + [Git basic Session VIII](https://youtu.be/mkGhdhRAc0c)
-
++ [How Ultrasonic Distance Detector IX](https://youtu.be/rtmAhuQl6JQ)
 
 ACCESSED EMAIL
 
