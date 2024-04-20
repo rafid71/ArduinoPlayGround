@@ -34,6 +34,7 @@
    
 + [Git basic Session VIII](https://youtu.be/mkGhdhRAc0c)
 + [How Ultrasonic Distance Detector IX](https://youtu.be/rtmAhuQl6JQ)
++ [How Ultrasonic Distance Detector X](https://youtu.be/aF90YnN-eoo)
 
 ACCESSED EMAIL
 
