@@ -13,10 +13,10 @@ public class Main {
 		
 	}
 	public static void digitalWrite(long trigPin, String LOW) {
-		delayMicrosecond(int 2);
+		delayMicrosecond( 2);
 	}
 	public static void digitalWrite(long trigPin, String HIGH) {
-		delayMicrosecend(int 10);
+		delayMicrosecend(10);
 	}
 	public static void digitalWrite(long trigPin, String LOW) {
 		duration = pulsin(echoPin, HIGH);
