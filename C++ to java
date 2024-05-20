@@ -33,4 +33,12 @@ public class Main {
 }
 ```
 Errors:-
+1:  '.class' expected delayMicrosecond (int 2);
 
+
+
+2:   '.class' expected delayMicrosecend(int 10);
+
+
+
+2 errors
