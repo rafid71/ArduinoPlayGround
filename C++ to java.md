@@ -12,8 +12,7 @@ public class Main {
 		digitalWrite(trigPin,LOW);
 		
 	}
-	public static void digitalWrite(long
-									trigPin, String LOW) {
+	public static void digitalWrite(long trigPin, String LOW) {
 		delayMicrosecond(int 2);
 	}
 	public static void digitalWrite(long trigPin, String HIGH) {
