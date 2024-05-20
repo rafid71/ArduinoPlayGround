@@ -1,6 +1,6 @@
 ### My Coding
 ```Java
-blic class Main {
+public class Main {
 	public static void main(String[] args) {
 		int x = 4;
 		int z = 6;
