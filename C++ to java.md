@@ -60,4 +60,5 @@ pulsein(trigPin,HIGH);
 }
 ```
 errors:
-1:
+1:55 >the mathode pulsein(long,string) is undifined for the type PMai
+2:57>return type for the method is missing
