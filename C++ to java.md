@@ -43,3 +43,21 @@ Errors:
 
 
 2 errors
+###V2
+public class PMai {
+public static long echoPin = 13;
+	public static long trigPin = 12;
+	public static long duration;
+	public static long distance;
+	public static String LOW, HIGH;
+```Java
+  public static void main(String[] args) {
+pulsein(trigPin,HIGH);
+  }
+  public static pulsein(long trigPin,String HIGH ){
+  return 0;
+}
+}
+```
+errors:
+1:
