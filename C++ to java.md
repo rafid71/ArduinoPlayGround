@@ -133,4 +133,16 @@ Duplicate method digitalWrite(long, String) in type PMai
 3:Duplicate method delayMicrosecond (int) in type PMai
 
 
+4:Duplicate method digitalWrite(long, String) in type PMai
+
+
+
+5:
+
+Duplicate method delayMicrosecond (int) in type PMai
+
+6:
+
+
+
 
