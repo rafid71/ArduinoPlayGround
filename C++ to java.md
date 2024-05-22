@@ -62,3 +62,57 @@ pulsein(trigPin,HIGH);
 errors:
 1:55 >the mathode pulsein(long,string) is undifined for the type PMai
 2:57>return type for the method is missing
+
+
+### V-3
+```Java
+public class PMai {
+  public static long echoPin = 13;
+  public static long trigPin=12;
+  public static long duration;
+  public static long distance;
+  public static String LOW, HIGH;
+  public static long de=500;
+  public static long ss=10;
+  public static long ms=2;
+
+  public static void main(String[] args) {
+    digitalWrite(trigPin, LOW);
+    digitalWrite(trigPin, HIGH);
+    digitalWrite(trigPin, LOW);
+    pulseIn(echoPin, HIGH);
+    
+    delayMicrosecond(2);
+    delayMicrosecond(10);
+    delay(500);
+  }
+
+public static void digitalWrite(long trigPin,String LOW){
+  }
+  public static void delayMicrosecond(int  ms){ 
+  }
+  
+public static void digitalWrite(long trigPin,String HIGH){
+  
+  
+  }
+  public static void delayMicrosecond(int ss){
+    
+  }
+
+public static void digitalWrite(long trigPin,String LOW){
+  
+}
+  public static long pulseIn(long echoPin, String HIGH) {
+    double R = Math.random();
+    long r = (long) R;
+    System.out.println(r);
+    return r;
+  }
+  public static void delay(int de){
+    
+  }
+}
+
+```
+6 Errors
