@@ -115,4 +115,22 @@ public static void digitalWrite(long trigPin,String LOW){
 }
 
 ```
-6 Errors
+6 ErrorsErrors
+
+
+1:Syntax error on token "class", Identifier expected
+
+
+
+2:
+
+Duplicate method digitalWrite(long, String) in type PMai
+
+
+
+
+
+3:Duplicate method delayMicrosecond (int) in type PMai
+
+
+
