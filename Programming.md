@@ -15,6 +15,9 @@
   - Status Disable
 + [Java Programming Session II](https://youtu.be/mizjBujjXO4) Important Concept | METHOD
   - java methods
+    -   [Java Programming Session XI (revised java method type)](https://youtu.be/GqhZBt-pOHQ)
+    -   void method
+    -   return method
 + [Java Programming Session III](https://youtu.be/EuXAUXTN68w) Important Concept | CONDITION
   - conditional statement
 + [Java Programming Session IV](https://youtu.be/Z4qZyAlTXzU) Important Concept | LOOP
@@ -35,6 +38,9 @@
 + [Git basic Session VIII](https://youtu.be/mkGhdhRAc0c)
 + [How Ultrasonic Distance Detector IX](https://youtu.be/rtmAhuQl6JQ)
 + [How Ultrasonic Distance Detector X](https://youtu.be/aF90YnN-eoo)
++ [Java Programming Session XI (revised java method type)](https://youtu.be/GqhZBt-pOHQ)
+  - void method
+  - return method  
 
 ACCESSED EMAIL
 
